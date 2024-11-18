@@ -8,7 +8,7 @@ int main()
     {
         cout << "Tinh Menh Gia\n";
         int sotien, to500, to200, to100, to50, to20, to10, to5, to2, to1;
-        cout << "So to tien can de rut la: ";
+        cout << "So to tien can de rut ra (Don vi: nghin dong): ";
         cin >> sotien; cout << endl;
 
         to500 = sotien / 500;
